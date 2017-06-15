@@ -26,7 +26,7 @@ Git Status - list the files that have changed since last commit
 Git commit - save point in Git
   git commit -m "Create awesome_page.md"
 
-Git push - Upload local changed files to origin repo  
+Git push - Upload local changed files to origin repo  | git push remote local 
   git push origin master
 
 Git checkout - -b creates a new branch
